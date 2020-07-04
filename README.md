@@ -1,5 +1,7 @@
 # Image Sorting Engine (PDSD project)
 
+[Project 說明](https://drive.google.com/file/d/1JlmN9DIheH8oTfd8M5K3H0rh0Xg2YZLB/view?usp=sharing)
+
 [Report](https://drive.google.com/file/d/1kT6xhRZ3qcuGGKyPRrvIcdy3IQYjFJ32/view?usp=sharing)
 
 [Score](https://drive.google.com/file/d/1GFMUJQdhzHVumEt7n7I6TfqyHqK1Tn32/view?usp=sharing)
