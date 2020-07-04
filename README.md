@@ -1,5 +1,9 @@
 # Image Sorting Engine (PDSD project)
 
+[Report](https://drive.google.com/file/d/1kT6xhRZ3qcuGGKyPRrvIcdy3IQYjFJ32/view?usp=sharing)
+
+[Score](https://drive.google.com/file/d/1GFMUJQdhzHVumEt7n7I6TfqyHqK1Tn32/view?usp=sharing)
+
 ## Post-Synthesis
 * ISE_syn.v
 * ISE.sdf
